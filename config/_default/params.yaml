@@ -15,8 +15,8 @@ font_size: L
 site_type: Person
 local_business_type: ''
 org_name: ''
-description: 'A highly-customizable Hugo blog theme powered by Wowchemy website builder.'
-twitter: 'wowchemy'
+description: 'Profile site for Mayank Shukla'
+twitter: 'Mayankkumarshuk'
 
 # Site header
 
@@ -27,11 +27,11 @@ main_menu:
   show_language: false
   show_day_night: true
   show_search: true
-  highlight_active_link: false
+  highlight_active_link: true
 
 # Localization
 
-date_format: 'Jan 2, 2006'
+date_format: '1 Jan, 2022'
 time_format: '3:04 PM'
 
 # Site features

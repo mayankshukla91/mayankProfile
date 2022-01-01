@@ -28,7 +28,7 @@ subtitle = ""
     tag = ""
     category = ""
     publication_type = ""
-    author = ""
+    author = "Mayank Shukla"
     exclude_featured = false
 
   [content.archive]
