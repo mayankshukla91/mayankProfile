@@ -10,7 +10,7 @@ role: Embedded Developer
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: ☕️ Settings
 
 # Organizations/Affiliations
 organizations:
