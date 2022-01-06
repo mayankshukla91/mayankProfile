@@ -1,9 +1,10 @@
 ---
-title: Welcome to Wowchemy, the website builder for Hugo
-subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+title: Welcome to my Profile site.
+subtitle: Welcome 👋 We know that first impressions are important, so I have tried to put as much information as possible.
 
 # Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+summary: Welcome 👋 We know that first impressions are important, so I have tried to put as much information as possible.
+
 
 # Link this post with a project
 projects: []
@@ -33,12 +34,14 @@ authors:
 - 美杨
 
 tags:
-- Academic
-- 开源
+- Profile
+- Embedded
+- Engineering
+- Automotive
 
 categories:
-- Demo
-- 教程
+- Profile
+- TechnicalBlog
 ---
 
 ## Overview

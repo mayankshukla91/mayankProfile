@@ -39,8 +39,8 @@ time_format: '3:04 PM'
 highlight: true
 highlight_languages:
   - r
-math: false
-diagram: false
+math: true
+diagram: true
 privacy_pack: false
 require_isotope: false  # Enable if you use Portfolio widget or Publication pages
 edit_page:
@@ -61,7 +61,7 @@ copyright_license:
   allow_derivatives: false
   share_alike: true
   allow_commercial: false
-  notice: 'This work is licensed under {license}'
+  notice: 'This work is licensed under private domain'
 plugins_js: []
 avatar:
   gravatar: false
